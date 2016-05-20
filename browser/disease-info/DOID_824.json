@@ -1,0 +1,1 @@
+{"disease_code": "DOID:824", "xref": {"NCI": ["C34918"], "SNOMEDCT_2010_1_31": ["155648008", "266491004", "41565005"], "EFO": ["0000649"], "UMLS_CUI": ["C0031099"], "MSH": ["D010518"]}, "synonym": ["\"chronic pericementitis\" EXACT [MTHICD9_2006:523.4]", "\"chronic periodontitis\" EXACT [SNOMEDCT_2005_07_31:155647003]"], "name": "periodontitis", "int_id": 824}

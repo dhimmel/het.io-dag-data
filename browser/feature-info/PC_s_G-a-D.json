@@ -1,0 +1,1 @@
+{"description": "The number of diseases that the source gene is associated with, ignoring the association with the target disease if present.", "easy_name": "GaD (any disease)", "metric": "Path Count", "feature": "PC_s|G-a-D", "metapath_long": "Gene-assocation~Disease", "name": "GaD"}

@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes interacting with the source gene are expressed in tissues that are affected by the target disease.", "easy_name": "GiGeTlD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-i-G-e-T-l-D", "metapath_long": "Gene-interaction~Gene-expression~Tissue-localization~Disease", "name": "GiGeTcD"}

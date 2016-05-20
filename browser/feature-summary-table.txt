@@ -1,0 +1,25 @@
+feature	metapath	metric	auroc	standardized_coefficient
+DWPC_0.4_G-a-D-a-G-a-D	GaDaGaD	DWPC (w=0.4)	0.63	2.54
+DWPC_0.4_G-a-D-l-T-l-D	GaDlTlD	DWPC (w=0.4)	0.67	2.00
+DWPC_0.4_G-a-D-m-P-m-D	GaDmPmD	DWPC (w=0.4)	0.64	1.64
+DWPC_0.4_G-e-T-e-G-a-D	GeTeGaD	DWPC (w=0.4)	0.57	0.24
+DWPC_0.4_G-e-T-l-D	GeTlD	DWPC (w=0.4)	0.57	0.29
+DWPC_0.4_G-i-G-a-D	GiGaD	DWPC (w=0.4)	0.56	1.14
+DWPC_0.4_G-i-G-e-T-l-D	GiGeTlD	DWPC (w=0.4)	0.63	0.25
+DWPC_0.4_G-i-G-i-G-a-D	GiGiGaD	DWPC (w=0.4)	0.65	0.77
+DWPC_0.4_G-m-C1-m-G-a-D	{Positional}	DWPC (w=0.4)	0.53	0.21
+DWPC_0.4_G-m-C2.CG-m-G-a-D	{Perturbation}	DWPC (w=0.4)	0.74	1.51
+DWPC_0.4_G-m-C2.CP.B-m-G-a-D	{BioCarta}	DWPC (w=0.4)	0.55	0.54
+DWPC_0.4_G-m-C2.CP.K-m-G-a-D	{KEGG}	DWPC (w=0.4)	0.61	1.18
+DWPC_0.4_G-m-C2.CP.R-m-G-a-D	{Reactome}	DWPC (w=0.4)	0.60	1.24
+DWPC_0.4_G-m-C3.M-m-G-a-D	{miRNA Target}	DWPC (w=0.4)	0.56	0.51
+DWPC_0.4_G-m-C3.T-m-G-a-D	{TF Target}	DWPC (w=0.4)	0.61	0.64
+DWPC_0.4_G-m-C4.CG-m-G-a-D	{Cancer Hood}	DWPC (w=0.4)	0.53	0.12
+DWPC_0.4_G-m-C4.CM-m-G-a-D	{Cancer Module}	DWPC (w=0.4)	0.63	0.72
+DWPC_0.4_G-m-C5.B-m-G-a-D	{GO Process}	DWPC (w=0.4)	0.63	0.81
+DWPC_0.4_G-m-C5.C-m-G-a-D	{GO Component}	DWPC (w=0.4)	0.56	0.38
+DWPC_0.4_G-m-C5.M-m-G-a-D	{GO Function}	DWPC (w=0.4)	0.58	0.36
+DWPC_0.4_G-m-C6-m-G-a-D	{Oncogenic}	DWPC (w=0.4)	0.60	0.54
+DWPC_0.4_G-m-C7-m-G-a-D	{Immunologic}	DWPC (w=0.4)	0.70	1.21
+PC_s_G-a-D	GaD (any disease)	Path Count	0.68	1.90
+PC_t_G-a-D	GaD (any gene)	Path Count	0.62	0.67

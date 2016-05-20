@@ -1,0 +1,1 @@
+{"description": "Measures the extent that the target disease is semantically simlar to other diseases that are associated with the source gene.", "easy_name": "GaDsD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-a-D-s-D", "metapath_long": "Gene-assocation~Disease-similarity~Disease", "name": "GaDsD"}

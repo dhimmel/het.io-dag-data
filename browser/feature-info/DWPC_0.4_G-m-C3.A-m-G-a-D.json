@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes who share a conserved cis-regulatory motif with the source gene are associated with the target disease.", "easy_name": "{Motif}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C3.A-m-G-a-D", "metapath_long": "Gene-membership~Motif-membership~Gene-association~Disease", "name": "Motif"}

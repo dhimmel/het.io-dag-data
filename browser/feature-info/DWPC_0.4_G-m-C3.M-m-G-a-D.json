@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes sharing 3'-UTR microRNA binding motifs with the source gene are associated with the target disease.", "easy_name": "{miRNA Target}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C3.M-m-G-a-D", "metapath_long": "Gene-membership~miRNA Target-membership~Gene-association~Disease", "name": "miRNA Target"}

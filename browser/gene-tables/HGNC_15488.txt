@@ -1,0 +1,30 @@
+disease_name	disease_code	pathophysiology	status	other_associations	prediction
+prostate carcinoma	DOID:10286	neoplastic	-	34	 0.17
+chronic lymphocytic leukemia	DOID:1040	neoplastic	-	14	 0.21
+celiac disease	DOID:10608	immunologic	-	24	 0.77
+Alzheimer's disease	DOID:10652	degenerative	-	12	 0.12
+age related macular degeneration	DOID:10871	degenerative	-	18	 0.16
+primary biliary cirrhosis	DOID:12236	immunologic	-	20	 1.70
+vitiligo	DOID:12306	immunologic	-	20	 0.62
+Graves' disease	DOID:12361	immunologic	-	12	 0.22
+metabolic syndrome X	DOID:14221	metabolic	-	17	 0.12
+Parkinson's disease	DOID:14330	degenerative	-	12	 0.12
+multiple sclerosis	DOID:2377	immunologic	-	50	 1.36
+asthma	DOID:2841	immunologic	-	17	 0.40
+atopic dermatitis	DOID:3310	immunologic	-	11	 0.55
+bipolar disorder	DOID:3312	psychiatric	-	11	 0.13
+coronary artery disease	DOID:3393	metabolic	-	29	 0.23
+breast carcinoma	DOID:3459	neoplastic	-	43	 0.19
+lung carcinoma	DOID:3905	neoplastic	-	10	 0.11
+schizophrenia	DOID:5419	psychiatric	-	15	 0.12
+migraine	DOID:6364	unspecific	-	13	 0.12
+ankylosing spondylitis	DOID:7147	immunologic	-	10	12.40
+rheumatoid arthritis	DOID:7148	immunologic	-	30	 2.12
+ulcerative colitis	DOID:8577	immunologic	-	40	 3.99
+Crohn's disease	DOID:8778	immunologic	-	67	 3.81
+psoriasis	DOID:8893	immunologic	+ HC-P	15	 0.73
+systemic lupus erythematosus	DOID:9074	immunologic	-	22	 2.02
+type 2 diabetes mellitus	DOID:9352	immunologic	-	49	 0.31
+type 1 diabetes mellitus	DOID:9744	immunologic	-	33	 1.20
+refractive error	DOID:9835	degenerative	-	21	 0.17
+obesity	DOID:9970	metabolic	-	28	 0.13

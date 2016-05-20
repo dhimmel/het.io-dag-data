@@ -1,0 +1,1 @@
+{"disease_code": "DOID:14227", "xref": {"EFO": ["0000279"], "UMLS_CUI": ["C0004509"], "OMIM": ["415000"], "MSH": ["D053713"], "ICD9CM": ["606.0"], "SNOMEDCT_2010_1_31": ["145008007", "155925000", "167781002", "198010009", "425558002", "48188009"]}, "synonym": ["\"Azoospermia (finding)\" EXACT [SNOMEDCT_2005_07_31:48188009]"], "name": "azoospermia", "int_id": 14227}

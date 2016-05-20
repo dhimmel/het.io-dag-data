@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes expressed in the same tissues as the source gene are associated with the target disease.", "easy_name": "GeTeGaD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-e-T-e-G-a-D", "metapath_long": "Gene-expression~Tissue-expression~Gene-association~Disease", "name": "GeTeGaD"}

@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes belonging to the same cancer-dysregulated cellular pathways as the source gene are associated with the target disease.", "easy_name": "{Oncogenic}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C6-m-G-a-D", "metapath_long": "Gene-membership~Oncogenic-membership~Gene-association~Disease", "name": "Oncogenic"}

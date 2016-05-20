@@ -1,0 +1,1 @@
+{"disease_code": "DOID:9952", "xref": {"EFO": ["0000220"], "UMLS_CUI": ["C0023449"], "NCI": ["C3167"], "OMIM": ["613065", "613067"], "ICD9CM": ["204.0"], "SNOMEDCT_2010_1_31": ["128822004", "154588002", "190034000", "90151006", "91857003"]}, "synonym": ["\"acute lymphoblastic leukemia\" EXACT []"], "name": "acute lymphocytic leukemia", "int_id": 9952}

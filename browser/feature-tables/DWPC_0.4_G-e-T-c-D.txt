@@ -1,0 +1,30 @@
+disease_name	disease_code	pathophysiology	associations	disease_global_auroc	auroc
+prostate carcinoma	DOID:10286	neoplastic	15	0.74	0.56
+chronic lymphocytic leukemia	DOID:1040	neoplastic	11	0.87	0.71
+celiac disease	DOID:10608	immunologic	14	0.93	0.66
+Alzheimer's disease	DOID:10652	degenerative	14	0.85	0.65
+age related macular degeneration	DOID:10871	degenerative	13	0.85	0.54
+primary biliary cirrhosis	DOID:12236	immunologic	18	0.96	0.57
+vitiligo	DOID:12306	immunologic	11	0.88	0.62
+Graves' disease	DOID:12361	immunologic	NA	0.80	0.55
+metabolic syndrome X	DOID:14221	metabolic	13	0.92	0.57
+Parkinson's disease	DOID:14330	degenerative	10	0.60	0.62
+multiple sclerosis	DOID:2377	immunologic	38	0.83	0.59
+asthma	DOID:2841	immunologic	13	0.88	0.54
+atopic dermatitis	DOID:3310	immunologic	10	0.60	0.56
+bipolar disorder	DOID:3312	psychiatric	NA	0.60	0.45
+coronary artery disease	DOID:3393	metabolic	20	0.77	0.63
+breast carcinoma	DOID:3459	neoplastic	25	0.80	0.56
+lung carcinoma	DOID:3905	neoplastic	NA	0.84	0.54
+schizophrenia	DOID:5419	psychiatric	NA	0.58	0.63
+migraine	DOID:6364	unspecific	NA	0.66	0.61
+ankylosing spondylitis	DOID:7147	immunologic	NA	0.77	0.53
+rheumatoid arthritis	DOID:7148	immunologic	23	0.88	0.61
+ulcerative colitis	DOID:8577	immunologic	21	0.79	0.55
+Crohn's disease	DOID:8778	immunologic	43	0.82	0.53
+psoriasis	DOID:8893	immunologic	14	0.88	0.52
+systemic lupus erythematosus	DOID:9074	immunologic	20	0.81	0.59
+type 2 diabetes mellitus	DOID:9352	immunologic	42	0.79	0.58
+type 1 diabetes mellitus	DOID:9744	immunologic	24	0.86	0.55
+refractive error	DOID:9835	degenerative	15	0.74	0.47
+obesity	DOID:9970	metabolic	25	0.73	0.46

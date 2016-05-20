@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes sharing transcription factor binding sites with the source gene are associated with the target disease. Derived from TRANSFAC database.", "easy_name": "{TF Target}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C3.T-m-G-a-D", "metapath_long": "Gene-membership~TF Target-membership~Gene-association~Disease", "name": "TF Target"}

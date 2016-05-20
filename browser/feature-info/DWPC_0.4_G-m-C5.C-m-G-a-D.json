@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes belonging to the same GO Cellular Components as the source gene are associated with the target disease.", "easy_name": "{GO Component}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C5.C-m-G-a-D", "metapath_long": "Gene-membership~GO Component-membership~Gene-association~Disease", "name": "GO Component"}

@@ -1,0 +1,1 @@
+{"description": "Measures the extent that diseases affecting the same tissues as the target disease are associated with the source gene.", "easy_name": "GaDcTcD", "metric": "DWPC_0.4", "feature": "DWPC_0.4|G-a-D-c-T-c-D", "metapath_long": "Gene-association~Disease-coocurrence~Tissue-cooccurrence~Disease", "name": "GaDcTcD"}

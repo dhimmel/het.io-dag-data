@@ -1,0 +1,1 @@
+{"description": "Measures the extent that the source gene is expressed in tissues affected by target disease. Literature co-occurence is used to ascertain whether a disease affects a certain tissue.", "easy_name": "GeTcD", "metric": "DWPC_0.4", "feature": "DWPC_0.4|G-e-T-c-D", "metapath_long": "Gene-expression~Tissue-cooccurence~Disease", "name": "GeTcD"}

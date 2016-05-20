@@ -1,0 +1,25 @@
+feature	value
+GaD (any disease)	0.000
+GaD (any gene)	0.073
+GeTlD	0.019
+GiGaD	0.076
+{GO Process}	0.235
+{KEGG}	0.033
+{BioCarta}	0.052
+{TF Target}	0.109
+{Positional}	0.000
+{miRNA Target}	0.011
+{Cancer Hood}	0.022
+{Cancer Module}	0.107
+GaDaGaD	0.000
+GaDmPmD	0.000
+GaDlTlD	0.000
+{GO Function}	0.043
+{Perturbation}	0.227
+{Reactome}	0.030
+{Immunologic}	0.111
+{Oncogenic}	0.000
+GeTeGaD	0.017
+GiGeTlD	0.033
+GiGiGaD	0.076
+{GO Component}	0.037

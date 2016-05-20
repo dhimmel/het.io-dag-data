@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes present in the same expression neighborhoods of cancer-related genes as the source gene are associated with the target disease.", "easy_name": "{Cancer Hood}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C4.CG-m-G-a-D", "metapath_long": "Gene-membership~Cancer Hood-membership~Gene-association~Disease", "name": "Cancer Hood"}

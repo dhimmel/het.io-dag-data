@@ -1,0 +1,1 @@
+{"description": "Measures the extent that diseases similar to the target disease affect tissues expressing the source gene.", "easy_name": "GeTlDsD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-e-T-l-D-s-D", "metapath_long": "Gene-expression~Tissue-localization~Disease-similarity~Disease", "name": "GeTcDsD"}

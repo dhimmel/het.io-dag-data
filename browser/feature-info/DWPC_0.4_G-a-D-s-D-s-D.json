@@ -1,0 +1,1 @@
+{"description": "Measures the extent that diseases similar to diseases that are similar to the target disease are associated with the source gene.", "easy_name": "GaDsDsD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-a-D-s-D-s-D", "metapath_long": "Gene-association~Disease-similarity~Disease-similarity~Disease", "name": "GaDsDsD"}

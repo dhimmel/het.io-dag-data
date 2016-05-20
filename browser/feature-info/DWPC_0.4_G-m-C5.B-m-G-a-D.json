@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes participating in the same GO Biology Processes as the source gene are associated with the target disease.", "easy_name": "{GO Process}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C5.B-m-G-a-D", "metapath_long": "Gene-membership~GO Process-membership~Gene-association~Disease", "name": "GO Process"}

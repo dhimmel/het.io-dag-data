@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes associated with the target disease interact with the source gene. An interaction edge indicates when the protein products of two genes physically interact.", "easy_name": "GiGaD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-i-G-a-D", "metapath_long": "Gene-interaction~Gene-assocation~Disease", "name": "GiGaD"}

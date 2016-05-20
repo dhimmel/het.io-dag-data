@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes contributing to the same GO Molecular Functions as the source gene are associated with the target disease.", "easy_name": "{GO Function}", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-m-C5.M-m-G-a-D", "metapath_long": "Gene-membership~GO Function-membership~Gene-association~Disease", "name": "GO Function"}

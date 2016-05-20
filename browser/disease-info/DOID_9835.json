@@ -1,0 +1,1 @@
+{"disease_code": "DOID:9835", "xref": {"NCI": ["C87145"], "SNOMEDCT_2010_1_31": ["21324001", "267723000", "314027003", "39021009"], "EFO": ["0003908"], "UMLS_CUI": ["C0034951"], "MSH": ["D012030"]}, "synonym": ["\"disorder of refraction\" EXACT [SNOMEDCT_2005_07_31:314027003]", "\"eye refraction disorder\" EXACT [CSP2005:1116-1207]"], "name": "refractive error", "int_id": 9835}

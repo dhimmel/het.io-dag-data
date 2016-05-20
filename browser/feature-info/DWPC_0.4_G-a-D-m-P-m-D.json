@@ -1,0 +1,1 @@
+{"description": "Measures the extent that diseases with the same pathophysiology as the target disease are associated with the source gene.", "easy_name": "GaDmPmD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-a-D-m-P-m-D", "metapath_long": "Gene-assoction~Disease-membership~Pathophysiology-membership~Disease", "name": "GaDmPmD"}

@@ -1,0 +1,1 @@
+{"description": "Measures the extent that genes associated with the target disease interact with genes that interact with the source gene.", "easy_name": "GiGiGaD", "metric": "DWPC (w=0.4)", "feature": "DWPC_0.4|G-i-G-i-G-a-D", "metapath_long": "Gene-interaction~Gene-interaction~Gene-assocation~Disease", "name": "GiGiGaD"}

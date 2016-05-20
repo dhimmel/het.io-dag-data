@@ -1,0 +1,30 @@
+disease_name	disease_code	pathophysiology	status	other_associations	prediction
+prostate carcinoma	DOID:10286	neoplastic	± HC-S	34	 3.27
+chronic lymphocytic leukemia	DOID:1040	neoplastic	-	14	 8.24
+celiac disease	DOID:10608	immunologic	± HC-S	24	19.36
+Alzheimer's disease	DOID:10652	degenerative	-	12	 0.41
+age related macular degeneration	DOID:10871	degenerative	-	18	 0.61
+primary biliary cirrhosis	DOID:12236	immunologic	+ HC-P	19	10.67
+vitiligo	DOID:12306	immunologic	-	20	 5.27
+Graves' disease	DOID:12361	immunologic	± HC-S	12	 2.79
+metabolic syndrome X	DOID:14221	metabolic	-	17	 0.75
+Parkinson's disease	DOID:14330	degenerative	-	12	 0.56
+multiple sclerosis	DOID:2377	immunologic	± HC-S	50	19.77
+asthma	DOID:2841	immunologic	± HC-S	17	 4.64
+atopic dermatitis	DOID:3310	immunologic	-	11	 2.56
+bipolar disorder	DOID:3312	psychiatric	-	11	 0.31
+coronary artery disease	DOID:3393	metabolic	± HC-S	29	 0.77
+breast carcinoma	DOID:3459	neoplastic	-	43	 4.13
+lung carcinoma	DOID:3905	neoplastic	-	10	 1.70
+schizophrenia	DOID:5419	psychiatric	-	15	 0.49
+migraine	DOID:6364	unspecific	-	13	 0.24
+ankylosing spondylitis	DOID:7147	immunologic	-	10	 2.50
+rheumatoid arthritis	DOID:7148	immunologic	± HC-S	30	17.80
+ulcerative colitis	DOID:8577	immunologic	± HC-S	40	32.24
+Crohn's disease	DOID:8778	immunologic	± HC-S	67	11.28
+psoriasis	DOID:8893	immunologic	-	16	 7.99
+systemic lupus erythematosus	DOID:9074	immunologic	± HC-S	22	69.48
+type 2 diabetes mellitus	DOID:9352	immunologic	-	49	 1.68
+type 1 diabetes mellitus	DOID:9744	immunologic	± HC-S	33	19.70
+refractive error	DOID:9835	degenerative	-	21	 0.27
+obesity	DOID:9970	metabolic	-	28	 0.63
