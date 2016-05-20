@@ -1,0 +1,109 @@
+Disease	Code	Pathophysiology	HC-P	HC-S	LC-P	LC-S
+Crohn's disease	DOID:8778	immunologic	67	179	4	2
+multiple sclerosis	DOID:2377	immunologic	50	43	38	29
+type 2 diabetes mellitus	DOID:9352	immunologic	49	49	20	15
+breast carcinoma	DOID:3459	neoplastic	43	65	2	6
+ulcerative colitis	DOID:8577	immunologic	40	96	2	3
+prostate carcinoma	DOID:10286	neoplastic	34	202	3	4
+type 1 diabetes mellitus	DOID:9744	immunologic	33	56	9	6
+rheumatoid arthritis	DOID:7148	immunologic	30	27	20	11
+coronary artery disease	DOID:3393	metabolic	29	43	15	9
+obesity	DOID:9970	metabolic	28	22	34	18
+celiac disease	DOID:10608	immunologic	24	32	9	8
+systemic lupus erythematosus	DOID:9074	immunologic	22	35	14	8
+refractive error	DOID:9835	degenerative	21	11	2	1
+primary biliary cirrhosis	DOID:12236	immunologic	20	16	2	0
+vitiligo	DOID:12306	immunologic	20	27	4	0
+age related macular degeneration	DOID:10871	degenerative	18	30	11	18
+metabolic syndrome X	DOID:14221	metabolic	17	11	1	0
+asthma	DOID:2841	immunologic	17	23	13	4
+psoriasis	DOID:8893	immunologic	16	14	5	5
+schizophrenia	DOID:5419	psychiatric	15	27	20	13
+chronic lymphocytic leukemia	DOID:1040	neoplastic	14	16	3	4
+migraine	DOID:6364	unspecific	13	15	38	58
+Alzheimer's disease	DOID:10652	degenerative	12	11	27	18
+Graves' disease	DOID:12361	immunologic	12	15	1	1
+Parkinson's disease	DOID:14330	degenerative	12	21	8	13
+atopic dermatitis	DOID:3310	immunologic	11	15	5	1
+bipolar disorder	DOID:3312	psychiatric	11	34	26	74
+lung carcinoma	DOID:3905	neoplastic	10	14	6	6
+ankylosing spondylitis	DOID:7147	immunologic	10	5	6	6
+polycystic ovary syndrome	DOID:11612	metabolic	9	5	0	0
+melanoma	DOID:1909	neoplastic	9	12	2	0
+hypertension	DOID:10763	idiopathic	8	5	6	2
+ovarian carcinoma	DOID:4001	neoplastic	8	28	0	2
+systemic scleroderma	DOID:418	immunologic	8	7	4	2
+myocardial infarction	DOID:5844	metabolic	8	11	0	0
+esophageal carcinoma	DOID:1107	neoplastic	7	7	4	0
+Behcet's disease	DOID:13241	immunologic	7	7	1	1
+bladder carcinoma	DOID:4007	neoplastic	7	8	2	1
+Paget's disease of bone	DOID:5408	immunologic	7	1	1	0
+leprosy	DOID:1024	infectious	6	4	1	0
+intracranial aneurysm	DOID:10941	unspecific	6	5	1	1
+glaucoma	DOID:1686	degenerative	6	7	4	0
+amyotrophic lateral sclerosis	DOID:332	degenerative	6	7	18	20
+restless legs syndrome	DOID:0050425	unspecific	5	3	0	0
+Kawasaki disease	DOID:13378	immunologic	5	6	4	1
+atherosclerosis	DOID:1936	metabolic	5	2	3	1
+alopecia areata	DOID:986	immunologic	5	4	2	1
+osteoporosis	DOID:11476	metabolic	4	1	6	0
+hypothyroidism	DOID:1459	immunologic	4	13	11	10
+endometriosis	DOID:289	neoplastic	4	6	7	6
+IgA glomerulonephritis	DOID:2986	immunologic	4	4	1	2
+renal cell carcinoma	DOID:4450	neoplastic	4	2	2	0
+cerebrovascular disease	DOID:6713	unspecific	4	2	2	3
+neuroblastoma	DOID:769	neoplastic	4	0	1	0
+Hodgkin's lymphoma	DOID:8567	neoplastic	4	2	2	1
+alcohol dependence	DOID:0050741	psychiatric	3	11	6	4
+degenerative myopia	DOID:11829	degenerative	3	1	4	1
+Creutzfeldt-Jakob syndrome	DOID:11949	idiopathic	3	1	2	3
+azoospermia	DOID:14227	unspecific	3	2	0	0
+epilepsy syndrome	DOID:1826	unspecific	3	1	4	0
+hepatitis B	DOID:2043	infectious	3	2	0	0
+chronic obstructive pulmonary disease	DOID:3083	toxic	3	6	1	1
+thyroid carcinoma	DOID:3963	neoplastic	3	7	0	0
+abdominal aortic aneurysm	DOID:7693	unspecific	3	0	0	0
+chronic kidney failure	DOID:784	unspecific	3	1	1	6
+osteoarthritis	DOID:8398	degenerative	3	2	1	2
+psoriatic arthritis	DOID:9008	immunologic	3	1	0	0
+multiple myeloma	DOID:9538	neoplastic	3	1	13	11
+acute lymphocytic leukemia	DOID:9952	neoplastic	3	4	19	12
+nicotine dependence	DOID:0050742	psychiatric	2	3	0	0
+membranous glomerulonephritis	DOID:10976	immunologic	2	3	0	0
+gestational diabetes	DOID:11714	metabolic	2	1	1	0
+malaria	DOID:12365	infectious	2	2	4	5
+autistic disorder	DOID:12849	idiopathic	2	1	1	0
+dilated cardiomyopathy	DOID:12930	unspecific	2	0	0	0
+gout	DOID:13189	metabolic	2	0	1	4
+uterine fibroid	DOID:13223	neoplastic	2	7	0	0
+sclerosing cholangitis	DOID:14268	immunologic	2	0	2	0
+stomach carcinoma	DOID:5517	immunologic	2	1	0	0
+hepatocellular carcinoma	DOID:684	neoplastic	2	2	1	2
+narcolepsy	DOID:8986	unspecific	2	0	0	0
+degenerative disc disease	DOID:90	degenerative	2	2	7	6
+cleft lip	DOID:9296	congenital	2	3	4	5
+idiopathic pulmonary fibrosis	DOID:0050156	degenerative	1	0	0	0
+attention deficit hyperactivity disorder	DOID:1094	psychiatric	1	0	27	1
+Gilles de la Tourette syndrome	DOID:11119	psychiatric	1	2	2	5
+exfoliation syndrome	DOID:13641	degenerative	1	0	0	0
+endometrial cancer	DOID:1380	neoplastic	1	0	1	1
+thoracic aortic aneurysm	DOID:14004	unspecific	1	0	0	0
+endogenous depression	DOID:1595	psychiatric	1	1	27	32
+mood disorder	DOID:3324	psychiatric	1	0	0	0
+allergic rhinitis	DOID:4481	immunologic	1	5	11	3
+pancreatic carcinoma	DOID:4905	neoplastic	1	2	11	4
+bone marrow cancer	DOID:4960	neoplastic	1	0	0	0
+pancreatitis	DOID:4989	unspecific	1	1	0	1
+nephrolithiasis	DOID:585	metabolic	1	3	0	0
+mature B-cell neoplasm	DOID:706	neoplastic	1	1	1	2
+periodontitis	DOID:824	infectious	1	0	0	0
+Barrett's esophagus	DOID:9206	neoplastic	1	3	1	3
+Fuchs' endothelial dystrophy	DOID:11555	degenerative	0	0	2	0
+otosclerosis	DOID:12185	idiopathic	0	0	1	0
+conduct disorder	DOID:12995	psychiatric	0	2	3	3
+focal segmental glomerulosclerosis	DOID:1312	unspecific	0	0	1	1
+dental caries	DOID:216	infectious	0	0	23	21
+anemia	DOID:2355	unspecific	0	0	2	1
+panic disorder	DOID:594	psychiatric	0	0	10	7
+acquired immunodeficiency syndrome	DOID:635	infectious	0	7	7	4
+chronic myeloid leukemia	DOID:8552	neoplastic	0	0	1	8
