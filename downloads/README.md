@@ -30,31 +30,32 @@ Standardized and unstandardized coefficients from the ridge and lasso logistic r
 Information on the included protein-coding genes, derived from the HGNC database.  
 PLOS **S3 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s015>
 
-- **Complex Diseases** — [`diseases.txt`](diseases.txt)  
-All diseases with at least one GWAS-Catalog-extracted association.
-The manual pathophysiology classification is included.  
-PLOS **S6 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s018>
-
-- **Tissue-specific Gene Expression** — [`expression.txt.gz`](expression.txt.gz)  
-A processed version of the GNF BodyMap providing a gene's (row, HGNC symbols) expression value for each of 77 tissues (columns, BRENDA Tissue Ontology IDs).  
-PLOS **S9 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s021>
+- **Processed GWAS Catalog Loci** — [`loci-associations.txt`](loci-associations.txt)  
+The associated gene-disease loci (regions) derived from the GWAS Catalog.  
+PLOS **S4 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s016>
 
 - **Gene-Disease Associations** — [`gene-associations.txt`](gene-associations.txt)  
 All gene-disease associations extracted from the GWAS catalog for the four categories of association.  
 PLOS **S5 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s017>
 
-- **Processed GWAS Catalog Loci** — [`loci-associations.txt`](loci-associations.txt)  
-The associated gene-disease loci (regions) derived from the GWAS Catalog.  
-PLOS **S4 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s016>
-
-- **Disease Localization** — [`disease-localization.txt`](disease-localization.txt)  
-Literature co-occurrence between diseases and tissues calculated using CoPub 5.0.  
-PLOS **S10 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s022>
+- **Complex Diseases** — [`diseases.txt`](diseases.txt)  
+All diseases with at least one GWAS-Catalog-extracted association.
+The manual pathophysiology classification is included.  
+PLOS **S6 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s018>
 
 - **Protein-Protein Interactions** — [`protein-interactions.txt.gz`](protein-interactions.txt.gz)  
 Protein-protein interactions processed from iRefIndex using ppiTrim.
 ppiTrim converts to gene space, consolidates duplicate interactions, and removes complexes.
 PLOS **S8 Data** at <ttps://doi.org/10.1371/journal.pcbi.1004259.s020>
+
+- **Tissue-specific Gene Expression** — [`expression.txt.gz`](expression.txt.gz)  
+A processed version of the GNF BodyMap providing a gene's (row, HGNC symbols) expression value for each of 77 tissues (columns, BRENDA Tissue Ontology IDs).  
+PLOS **S9 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s021>
+
+- **Disease Localization** — [`disease-localization.txt`](disease-localization.txt)  
+Literature co-occurrence between diseases and tissues calculated using CoPub 5.0.  
+PLOS **S10 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s022>
+
 
 ## Network
 
