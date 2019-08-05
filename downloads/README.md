@@ -9,50 +9,52 @@ DOI: [10.1371/journal.pcbi.1004259](https://doi.org/10.1371/journal.pcbi.1004259
 
 Previousely, these downloads were described at <https://het.io/disease-genes/downloads/>.
 In August 2019, we moved the downloads documentation to this README.
+
 Many of these downloads are also available as Supporting Information files from _PLOS Computational Biology_, as indicated by the corresponding DOI links.
+Where the Supporting Information files use as `.txt` extension, the downloads here have switched to `.tsv` when appropriate for better GitHub previewing.
 
 ## Predictions
 
-- **Predictions** — [`predictions.txt.gz`](predictions.txt.gz)  
+- **Predictions** — [`predictions.tsv.gz`](predictions.tsv.gz)  
 Predicted probabilities of association between all genes (rows) and diseases (columns).  
 PLOS **S1 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s013>
 
-- **Features** — [`features.txt.gz`](features.txt.gz)  
+- **Features** — [`features.tsv.gz`](features.tsv.gz)  
 The features (columns) computed for each gene-disease pair (rows).
 Column names with beginning with 'XB' refer to standardized features.
 
-- **Model Coefficients** — [`coefficients.txt`](coefficients.txt)  
+- **Model Coefficients** — [`coefficients.tsv`](coefficients.tsv)  
 Standardized and unstandardized coefficients from the ridge and lasso logistic regression models.
 
 ## Resources
 
-- **Protein-coding Genes** — [`genes.txt`](genes.txt)  
+- **Protein-coding Genes** — [`genes.tsv`](genes.tsv)  
 Information on the included protein-coding genes, derived from the HGNC database.  
 PLOS **S3 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s015>
 
-- **Processed GWAS Catalog Loci** — [`loci-associations.txt`](loci-associations.txt)  
+- **Processed GWAS Catalog Loci** — [`loci-associations.tsv`](loci-associations.tsv)  
 The associated gene-disease loci (regions) derived from the GWAS Catalog.  
 PLOS **S4 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s016>
 
-- **Gene-Disease Associations** — [`gene-associations.txt`](gene-associations.txt)  
+- **Gene-Disease Associations** — [`gene-associations.tsv`](gene-associations.tsv)  
 All gene-disease associations extracted from the GWAS catalog for the four categories of association.  
 PLOS **S5 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s017>
 
-- **Complex Diseases** — [`diseases.txt`](diseases.txt)  
+- **Complex Diseases** — [`diseases.tsv`](diseases.tsv)  
 All diseases with at least one GWAS-Catalog-extracted association.
 The manual pathophysiology classification is included.  
 PLOS **S6 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s018>
 
-- **Protein-Protein Interactions** — [`protein-interactions.txt.gz`](protein-interactions.txt.gz)  
+- **Protein-Protein Interactions** — [`protein-interactions.tsv.gz`](protein-interactions.tsv.gz)  
 Protein-protein interactions processed from iRefIndex using ppiTrim.
 ppiTrim converts to gene space, consolidates duplicate interactions, and removes complexes.
 PLOS **S8 Data** at <ttps://doi.org/10.1371/journal.pcbi.1004259.s020>
 
-- **Tissue-specific Gene Expression** — [`expression.txt.gz`](expression.txt.gz)  
+- **Tissue-specific Gene Expression** — [`expression.tsv.gz`](expression.tsv.gz)  
 A processed version of the GNF BodyMap providing a gene's (row, HGNC symbols) expression value for each of 77 tissues (columns, BRENDA Tissue Ontology IDs).  
 PLOS **S9 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s021>
 
-- **Disease Localization** — [`disease-localization.txt`](disease-localization.txt)  
+- **Disease Localization** — [`disease-localization.tsv`](disease-localization.tsv)  
 Literature co-occurrence between diseases and tissues calculated using CoPub 5.0.  
 PLOS **S10 Data** at <https://doi.org/10.1371/journal.pcbi.1004259.s022>
 
