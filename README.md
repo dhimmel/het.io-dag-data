@@ -15,4 +15,8 @@ The `browser` directory was not designed to have a user-facing purpose.
 The [`downloads`](downloads) directory hosts project-related datasets for user download.
 Previousely, these downloads were documented at <https://het.io/disease-genes/downloads/>, but documentation has now moved to the README.
 
-Most of the code for this study is available in the following repos: [het.io-dag-rcode](https://github.com/dhimmel/het.io-dag-rcode), [hetnetpy](https://github.com/hetio/hetnetpy), and [het.io-dag-pycode](https://github.com/dhimmel/het.io-dag-pycode).
+Most of the code for this study is available in the following repos:
+[serg-pycode](https://github.com/dhimmel/serg-pycode),
+[het.io-dag-rcode](https://github.com/dhimmel/het.io-dag-rcode),
+[hetnetpy](https://github.com/hetio/hetnetpy),
+and [het.io-dag-pycode](https://github.com/dhimmel/het.io-dag-pycode).
